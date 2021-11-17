@@ -1,0 +1,28 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "922eaa24-6844-481d-0a45-3ec5df04c5bb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Probability and Causality in Human Cognition",
+  "course_description": "Probability theory captures a number of essential characteristics of human cognition, including aspects of perception, reasoning, belief revision, and learning. Expressions of degree of belief were used in language long before people began codifying the laws of probability theory. This course explores the history and debates over codifying the laws of probability, how probability theory applies to specific cognitive processes, how it relates to the human understanding of causality, and how new computational approaches to causal modeling provide a framework for understanding human probabilistic reasoning.\n\nThis class is suitable for advanced undergraduates or graduate students specializing in cognitive science, artificial intelligence, and related fields.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.916-A",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
